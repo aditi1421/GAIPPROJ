@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'GAIPWEB'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D735223B526487FA311836E80BF2792 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A06B19368C2D4E8D83E8922D1CDED5B0 }}
